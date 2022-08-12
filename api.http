@@ -1,0 +1,10 @@
+GET http://localhost:8000/names?_page=1
+
+###
+GET http://localhost:3000/api/hello
+
+###
+GET http://localhost:3000/api/names
+
+###
+GET https://nextjs-swr-argentinaluiz.vercel.app/api/names?_limit=5&_page=1
